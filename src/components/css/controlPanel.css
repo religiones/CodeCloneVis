@@ -7,9 +7,20 @@
 
 .label {
     padding-right: 15px;
+    padding-left: 3px;
 }
 
 .slider {
-    width: 80%;
+    width: 90%;
     padding-top: 14px;
+}
+
+.slider-input {
+    margin-top: 38px;
+
+}
+
+.button-update {
+    margin-top: 40px;
+    margin-left: 30px;
 }
