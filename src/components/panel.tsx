@@ -1,21 +1,19 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'
 
 class panel extends Component<any, any> {
-  constructor(props: any){
-    super(props);
-  }
+    constructor(props: any){
+        super(props);
+    }
 
-  render(){
-      return (
-        <div>
-            2
-        </div>
-      )
-  }
+    render(){
+        return (
+            <div></div>
+        )
+    }
 
-  componentDidMount(){
+    componentDidMount(){
 
-  }
+    }
 }
 
 export default panel
